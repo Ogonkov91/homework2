@@ -3,7 +3,7 @@
 
             Console.Write("Введите любое число: ");
             num = Convert.ToInt32(Console.ReadLine());
-            numDigit = NumberDigit(num);// Пробуем функцию/метод. (прим вероятно подошло бы и для для проверки первой задачи)
+            numDigit = NumberDigit(num);
 
            int NumberDigit(int number)
 {
